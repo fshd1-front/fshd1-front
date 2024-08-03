@@ -1,7 +1,7 @@
 ## Hi, I'm Farshad
 
-👨‍💻Front-end Developer sharing my ideas and learning many things />
-🎨Currently learning React-js and for the next step, Next-js />
+👨‍💻Front-end Developer sharing my ideas and learning many things <br/>
+🎨Currently learning React-js and for the next step, Next-js <br/>
 <!--
 **fshd1-front/fshd1-front** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
