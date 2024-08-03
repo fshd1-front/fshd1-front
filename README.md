@@ -2,6 +2,7 @@
 
 👨‍💻Front-end Developer sharing my ideas and learning many things <br/>
 🎨Currently learning React-js and for the next step, Next-js <br/>
+🥳I am very eager to learn new things
 <!--
 **fshd1-front/fshd1-front** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
